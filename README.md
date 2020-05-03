@@ -1,3 +1,3 @@
 # github-upload
-*try markdown *
+* try markdown *
 ** hello **
